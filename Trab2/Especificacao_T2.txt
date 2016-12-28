@@ -1,0 +1,16 @@
+BCC
+====
+
+## Entrega: 26/06/2013
+
+Especificação Trabalho 2 Redes 1
+--------------------------------
+
+	--> Rede em estrela montada como uma árvore, um switch principal, conectado com 6 switches e cada um destes com 10 máquinas a 10Mbps.
+	
+		- 60 transmissores.
+		- 10 receptores.
+		- atraso da transmissão 10ms.
+		- Simular 1 minuto de vida da rede.
+		- Aumentar a quantidade de mensagens enviadas por cada origem começando em 1 mensagem por segundo. Terminar quando a taxa de entrega ficar abaixo de 20%.
+		- Gerar gráfico de taxa de entrega e latência de rede. Analisar o impacto do tráfego na taxa de entrega e na latência.	
